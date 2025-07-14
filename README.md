@@ -8,6 +8,11 @@ This is a fully functional, responsive **React-based URL Shortener Web Applicati
 
 **Afford Medical Technologies Private Limited (Affordmed)** is a healthcare technology company committed to improving the accessibility and affordability of medical services through innovation. By developing cutting-edge software solutions and streamlining operational workflows, Affordmed empowers hospitals, diagnostic labs, and healthcare institutions to deliver better patient care. The company believes in leveraging technology to bring transparency, affordability, and efficiency to the medical ecosystem.
 
+
+## ScreenShots
+
+![App Preview](./assests/image.png)
+
 ## 🚀 Features
 
 - ✅ Shorten up to **5 URLs concurrently**.
