@@ -1,3 +1,6 @@
+Name - Jayendra Kumar
+Registration Number - 12213710
+
 # React URL Shortener Web Application
 
 ## 🧩 Overview
